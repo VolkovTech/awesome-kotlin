@@ -1,0 +1,68 @@
+# Algorithms and data structures
+
+- Алгоритмы
+    - I part
+        - Рекурсия
+        - Сложность алгоримов, оценка эффективности
+    - II part
+        - Поиск в ширину/глубину
+        - Бинарный поиск
+        - Алгоритмы сортировки (Bubble, Insert, Merge, Quick)
+    - III part
+        - Алгоритмы на взвешеных графах (Алгоритм Дейкстры)
+        - Обход графов (поиск путей, компоненты связности, топологическая сортировка, поиск циклов)
+        - Динамическое программирование
+        - Жадные алгоритмы
+        - MapReduce
+
+- Структуры данных
+    - I part
+        - Хэширование, хэш-таблицы
+        - Стеки и очереди
+        - Списки
+        - Массивы, динамические массивы
+    - II part
+        - Очереди с приоритетами
+        - Графы
+        - Деревья, BST
+    - III part
+        - Сбалансированные деревья (AVL, Red-Black, B-Tree)
+        - Суффиксные деревья
+    - IV part
+        - Для БД (SS таблицы, B и LSM-деревья)
+        - Opt (Фильтры Блума, HyperLogLog, SHA)
+
+- Архитектура ПО
+    - I part
+        - Композиция vs Наследование vs Агрегация
+        - Singleton, Proxy, Builder
+        - ООП
+    - II part
+        - Лицензии opensource
+        - Factory Method, Decorator, Abstract Factory, Chain of Responsibility, Strategy, Facade)
+        - Complexity (Cohesion and Coupling)
+        - SOLID
+        - YAGNI, DRY, KISS
+        - Структурирование кода (как организовать пакеты/модули) внутри приложение
+    - III part
+        - Архитектурные стили (Layered Systems, Client Server n-Tier, Event Based)
+        - Enterprise Integration Patterns
+        - RDBMS vs NoSQL (виды NoSQL, какие критерии выбора БД)
+        - Монолит vs Микросервис
+
+- Межсервисное взаимодействие (База)
+    - I part
+        - Основы http (методы GET, POST, PUT, DELETE, PATCH + структура запроса)
+        - Синхронное и асинхронное взаимодествие
+    - II part
+        - Бинарные и текстовые
+        - RPC
+        - SOAP
+        - OpenAPi (Swagger)
+        - REST
+        - Шаблон асинхронного взаимодействия (топик vs очередь)
+    - III part
+        - GraphQL
+        - Thrift
+        - protobuf
+        - AVRO

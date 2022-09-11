@@ -1,0 +1,103 @@
+# Kotlin
+
+- Kotlin Classes & Objects
+    - I part
+        - Перечисления (enums)
+        - Дата-классы
+        - Функции-расширения
+        - Модификаторы видимости
+        - Интерфейсы
+        - Свойства класса (var / val)
+        - Объекты-компаньоны
+        - Первичные конструкторы
+        - Декларация и создание класса
+    - II part
+        - Object declaration (синглтоны)
+        - Анонимные объекты
+        - nested и inner классы
+        - Generic-классы
+        - Sealed-классы
+        - Свойства с поздней инициализацией (lateinit)
+        - Константы
+        - Теневые свойства
+        - Теневые (backing) поля
+        - Геттеры и сеттеры
+        - Абстрактные классы
+        - Наследование и переопределение членов класса
+        - Дополнительные конструкторы
+    - III part
+        - Делегирование свойств
+        - Делегирование классов
+        - Generics - Type protection
+        - Generics - Variance (in / out)
+
+- Kotlin Collection
+    - I part
+        - Операции над коллекциями (трансформация, фильтрация, группировка, агрегация)
+        - Итерация по коллекциям
+        - Создание коллекций
+        - Типы коллекций (Arrays, List, Set, Map)
+    - II part
+        - Sequence
+    
+- Kotlin Functions
+    - I part
+        - Лямбда-выражения
+        - Функции с одним выражением
+        - Именованные аргументы функции
+        - Аргументы по умолчанию
+        - Объявление и вызов функции
+    - II part
+        - inline-функции
+        - Функциональные литералы с ресивером
+        - Анонимные функции
+        - Функциональные типы
+        - Функции высшего порядка
+        - Generic функции
+        - Скоупы функций
+        - Нефиксированное число аргументов функции (varargs)
+        - Инфиксная запись функций
+    - III part
+        - reified параметры generic-ов
+        - Замыкания
+        - Функции с хвостовой рекурсией (tailrec)
+    
+- Kotlin basics
+    - I part
+        - Null-safety (Nullable Types/Non-nullable types/Safe Calls/Elvis Operator)
+        - is/as, проверка и конвертация типов
+        - Исключения (try/catch/finally)
+        - when
+        - if...else
+        - Строки, строковые литералы, конкатенация	
+        - Типы и преобразование типов
+    - II part
+        - Scope-функции (let/with/apply/run/aslo)
+        - Аннотации
+        - Перегрузка операторов
+        - Type aliases
+    - III part
+        - Контракты (contract/require)
+        - DSL
+        - Reflection
+    
+- Kotlin coroutines
+    - I part
+        - Cancellation and Timeouts
+        - Structured Concurrency
+        - Coroutine Dispatcher
+        - Coroutine Scope
+        - Coroutine builders (launch, async, runBlocking)	
+        - Suspending functions
+    - II part
+        - Flow
+        - Channels
+    - III part
+    
+- Kotlin tools
+    - I part
+        - Gradle плагины (allopen, noarg, kotlin-spring)
+    - II part
+        - kapt
+    - III part
+        - Gradle Kotlin DSL
