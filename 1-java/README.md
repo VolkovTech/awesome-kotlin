@@ -67,19 +67,18 @@
         - Fork Join Pool
     
 6. [**Java JVM**](6-java-jvm/README.md)
-    - I part
-        - Сборщик мусора (Общий принцип работы)
-        - Хип, стек
-        - Как работает JVM? (Те что происходит с кодом который мы пишем)
-        - JVM, JDK
-    - II part
-        - JIT комлиллятор (что такое)
-        - Jvm и GC флаги
-        - Класслоадеры
-        - Основные сборшики мусора
-    - III part
-        - Frames
-        - Принцип работы Jit компиллятора
+   - I part
+       - Garbage Collector (General Principle of Operation)
+       - Heap, Stack
+       - How does JVM work? (What happens to the code we write)
+       - JVM, JDK
+   - II part
+       - JIT compiler
+       - JVM и GC flags
+       - Classloaders
+       - Main garbage collectors
+   - III part
+       - Frames
 
 7. [**JVM lover**](7-jvm-lover/README.md)
     - I part

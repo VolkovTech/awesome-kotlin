@@ -72,3 +72,17 @@
         - BeanPostProcessors
         - @Order
         - Жизненный цикл (Жизненный цикл приложения и бина)
+
+The most important playlist of Spring knowledge by Evgeniy Borisov: [playlist](https://www.youtube.com/watch?v=BmBr5diz8WA&list=PL6yLoZ_3Y0HKGL3F7vv2SNSrA3TkbXtBX)
+
+The most important ones:
+- Spring-потрошитель, (2 части)
+- Spring Data? Да, та!
+- Spring Boot yourself (2 части)
+
+- Инверсии зависимостей управления впрыском: https://habr.com/ru/post/321344/
+- Введение в Spring: https://habr.com/ru/post/455794/
+- Как писать на Spring в 2017: https://habr.com/ru/post/333756/
+- Обратная сторона Spring: https://habr.com/ru/post/334448/
+- Spring Data JPA: https://habr.com/ru/post/435114/
++ видео, статейки по jdbc, hibernate

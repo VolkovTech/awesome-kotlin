@@ -2,34 +2,34 @@
 
 - DataBase Core
     - I part
-        - Что такое транзакция
-        - Типы отношений
-        - Сущности, связи, PK и FK
-        - Что такое БД и СУБД
+        - What is a transaction?
+        - Relationship types
+        - Entities, relations, PK и FK
+        - DB vs DBMS
     - II part
-        - Индексы
-        - Свойства транзакциии (особенно изолированность)
-        - Нормальные формы. денормализация
+        - Indexes
+        - Properties of transactions (especially isolation)
+        - Normal forms. Denormalization
     - III part 
-        - Шардирование
-        - Виды БД (когда какая зачем)
-        - Секционирование
+        - Sharding
+        - Types of database (what database is needed for what purposes?)
+        - Sectioning
 
 - SQL
     - I part
-        - Группировка, агрегатные функции
+        - Grouping, aggregate functions
         - Join
-        - Предикаты
-        - Оператор Select
+        - Predicates 
+        - Select (the order of execution)
     - II part
-        - Курсоры
-        - Триггеры
-        - ХП
-        - Временные таблицы и представления
+        - Cursors
+        - Triggers
+        - Stored procedure
+        - Temporary tables and views
         - Constraint
-        - DDL
-        - Оператор Merge
+        - DDL 
+        - Merge
     - III part
-        - Оконные функции
+        - Window Functions
         - Recursive queries
-        - Оптимизация запроса. План запроса
+        - Query optimization, query plan
